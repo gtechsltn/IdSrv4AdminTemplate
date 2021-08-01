@@ -1,5 +1,12 @@
 # IdentityServer4 Admin UI version 2.0.1
 
+## IdentityServer4 supports a variety of client connections
++ **PKCE flow** - for Mobile, SPA application connection
++ **Combined flow** - for Server-side Web application connections
++ **Resource owner password stream** - for Machine/Robot application connection
++ **Client authentication information flow** - for Server-to-Server application connections
++ **Device flow** - for Limited Input Device application connections
+
 ## Install Tools
 + Windows 10
 + Docker Desktop 3.5.2 (665001)
