@@ -1,5 +1,6 @@
 # IdentityServer4 Admin UI version 2.0.1
 + https://github.com/skoruba/IdentityServer4.Admin
++ https://blog.bitscry.com/2020/02/07/identityserver4-management-using-skoruba-identityserver4-admin/
 + https://github.com/workcontrolgit/TokenProject.AdminUI
   + Videos:
     + https://www.youtube.com/watch?v=11LpCjXuUgA
@@ -16,6 +17,7 @@
 + Windows 10
 + Docker Desktop 3.5.2 (665001)
 + Visual Studio 2019 Community
+  + .NET Core 5.0 SDK
 + NodeJS
 + Git and Git for Windows
 + SQL Server Express LocalDB
