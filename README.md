@@ -1,3 +1,13 @@
+# IdentityServer4
++ https://docs.identityserver.io/en/latest/index.html
+
+# ASP.NET Core Security
++ https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-5.0
++ ASP.NET Core 5
++ ASP.NET Core Identity
++ OpenIdConnect with IdentityServer4
++ OAuth2 with IdentityServer4
+
 # IdentityServer4 Admin UI version 2.0.1
 + https://github.com/skoruba/IdentityServer4.Admin
 + https://blog.bitscry.com/2020/02/07/identityserver4-management-using-skoruba-identityserver4-admin/
