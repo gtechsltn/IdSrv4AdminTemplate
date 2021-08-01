@@ -1,10 +1,21 @@
 # IdentityServer4 Admin UI version 2.0.1
 + https://github.com/skoruba/IdentityServer4.Admin
 + https://blog.bitscry.com/2020/02/07/identityserver4-management-using-skoruba-identityserver4-admin/
++ https://gitter.im/skoruba/IdentityServer4.Admin
 + https://github.com/workcontrolgit/TokenProject.AdminUI
-  + Videos:
-    + https://www.youtube.com/watch?v=11LpCjXuUgA
-    + https://www.youtube.com/watch?v=m_EEpPTCthM
+  + https://www.youtube.com/watch?v=11LpCjXuUgA
+  + https://www.youtube.com/watch?v=m_EEpPTCthM
+
+# Videos:
++ https://www.youtube.com/watch?v=bw5hnMNlD6s (Part 1)
++ https://www.youtube.com/watch?v=EOy1ch_g6uk (Part 2)
++ https://www.youtube.com/watch?v=4JppmIxadbc (Part 3) (SSO and SAML 2.0)
+
+# OAuth2
++ https://oauth.net/2/oauth-best-practice/
+
+# AAD
++ https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet
 
 ## IdentityServer4 supports a variety of client connections
 + **PKCE flow** - for Mobile, SPA application connection
