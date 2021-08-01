@@ -13,6 +13,8 @@
 
 ## Create new solution
 + Create new solution
+  + md C:\IdSrv4\IdSrv4Admin\
+  + cd C:\IdSrv4\IdSrv4Admin\
   + dotnet new skoruba.is4admin --name Identity --title Identity --adminemail "admin@kenken.com" --adminpassword "Abc@123$" --adminrole Admin --adminclientid ClientId --adminclientsecret "Abc@123$" --dockersupport true
 + Creat new DB in SQL Server Express LocalDB
 + Change connection string
