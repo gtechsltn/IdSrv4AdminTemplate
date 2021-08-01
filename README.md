@@ -1,4 +1,9 @@
 # IdentityServer4 Admin UI version 2.0.1
++ https://github.com/skoruba/IdentityServer4.Admin
++ https://github.com/workcontrolgit/TokenProject.AdminUI
+  + Videos:
+    + https://www.youtube.com/watch?v=11LpCjXuUgA
+    + https://www.youtube.com/watch?v=m_EEpPTCthM
 
 ## IdentityServer4 supports a variety of client connections
 + **PKCE flow** - for Mobile, SPA application connection
