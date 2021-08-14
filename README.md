@@ -1,6 +1,11 @@
 # IdentityServer4
 + https://docs.identityserver.io/en/latest/index.html
 
+# IdentityServer4 + ReactJS + ASP.NET Core 5 Web API
++ **C**: https://github.com/workcontrolgit/react-oidc-client-js (based on https://github.com/skoruba/react-oidc-client-js.git)
++ **A**: https://github.com/workcontrolgit/catnetcoreapi
++ **T**: https://github.com/workcontrolgit/TokenProject.AdminUI
+
 # ASP.NET Core Security
 + https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-5.0
 + ASP.NET Core 5
